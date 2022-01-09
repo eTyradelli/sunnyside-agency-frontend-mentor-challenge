@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://etyradelli.github.io/sunnyside-agency-frontend-mentor-challenge/)
+- Live Site URL: ![](https://etyradelli.github.io/sunnyside-agency-frontend-mentor-challenge/)
 
 
 ## My process
