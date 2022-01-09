@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](finished-project-screenshots/screenshot-desktop.jpg)
-![](finished-project-screenshots/screenshot-tablet.jpg)
-![](finished-project-screenshots/screenshot-mobile.jpg)
+![](finished-project-screenshots/screenshot-desktop.png)
+![](finished-project-screenshots/screenshot-tablet.png)
+![](finished-project-screenshots/screenshot-mobile.png)
 
 
 ### Links
