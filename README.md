@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [](https://etyradelli.github.io/sunnyside-agency-frontend-mentor-challenge/)
 
 
 ## My process
@@ -59,8 +58,8 @@ Next update on this project will fix accessibility issues.
 
 ## Author
 
-Hi, my name is Eleana and I'm a self-taught Junior Frontend Developer. 
-Feel free to find me on Linkedin and say hi :)
+Hi, my name is Eleana and I'm a Junior Frontend Developer. 
+Feel free to connect with me on Linkedin and say hi :)
 
 - Linkedin - [Eleana Tyradelli](https://www.linkedin.com/in/eleanatyradelli/)
 - Codepen - [@eTyradelli](https://codepen.io/eTyradelli)
